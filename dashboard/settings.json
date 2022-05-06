@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/TkQUp2qFcV",
+      "domain": "https://musicx.me"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://musicx.me/callback",
+        "clientID": "967843265808326756",
+        "secret": "0ikLV9SGfOIfqDm9JQPu9KHeB5CK1O5q"
+    }
+  }
